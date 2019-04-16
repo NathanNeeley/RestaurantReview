@@ -1,0 +1,2 @@
+# SimulatedReviewer
+Website coded with HTML, CSS, JavaScript, PHP, and SQL that is similar to Yelp, where the user registers with a username and password to rate restaurants with 0-5 stars and insert their feedback on needed improvements and positives of the restaurant. The user’s information and restaurant’s information are both retrieved from and added to MySQL. Additional pages are added for forget password, reset password, and change password that include other SQL queries.
